@@ -1,0 +1,5 @@
+https://github.com/brownan/Gamecube-N64-Controller/blob/master/README.rst
+
+
+GPIO Speed:
+https://codeandlife.com/2012/07/03/benchmarking-raspberry-pi-gpio-speed/
